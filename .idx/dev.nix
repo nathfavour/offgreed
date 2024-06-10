@@ -12,6 +12,8 @@
     # pkgs.nodejs_20
     # pkgs.nodePackages.nodemon
     pkgs.rustup
+    pkgs.clang
+    pkgs.flutter
 
   ];
 
